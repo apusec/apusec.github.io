@@ -3,8 +3,7 @@ html, body {
     padding: 0;
     min-height: 100vh;
     background-color: #eee5e0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    scroll-behavior: smooth;
+    font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI","Noto Sans Japanese","ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
 }
 
 .pane {
