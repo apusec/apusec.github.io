@@ -66,15 +66,7 @@ li.member {
     padding: 0 16px;
 }
 
-.gallery ul {
-    padding: 0;
-}
-
-.gallery li {
-    list-style: none;
-}
-
-.gallery img {
+main img {
     width: 100%;
     border: 1px solid gray;
 }
